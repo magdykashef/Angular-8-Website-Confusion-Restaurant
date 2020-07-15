@@ -4,11 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### First Steps:
 
-Navigate to Angular-8-Website-Confusion-Restaurant folder and open the Terminal and type `npm install` and press Enter and wait untill it completes.
-
-### BackEnd json-server
-
-Navigate to json-server folder and run `json-server db.json --watch -d 2000` . It will automatically load the data-base and assets. 
+1- Navigate to Angular-8-Website-Confusion-Restaurant folder and open the Terminal and type `npm install` and press Enter and wait untill it completes.
+2- Navigate to json-server folder and run `json-server db.json --watch -d 2000` . It will automatically load the database and assets. 
 
 ## Development server
 
