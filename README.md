@@ -2,13 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.26.
 
-## Development server
+### First Steps:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Navigate to Angular-8-Website-Confusion-Restaurant folder and open the Terminal and type   npm start   and press Enter and wait untill completes.
 
 ### BackEnd json-server
 
 Navigate to json-server folder and run `json-server db.json --watch -d 2000` . It will automatically load the data-base and assets. 
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
 
 ## Code scaffolding
 
