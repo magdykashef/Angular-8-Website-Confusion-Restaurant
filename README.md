@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### First Steps:
 
-Navigate to Angular-8-Website-Confusion-Restaurant folder and open the Terminal and type   npm start   and press Enter and wait untill completes.
+Navigate to Angular-8-Website-Confusion-Restaurant folder and open the Terminal and type `npm install` and press Enter and wait untill completes.
 
 ### BackEnd json-server
 
